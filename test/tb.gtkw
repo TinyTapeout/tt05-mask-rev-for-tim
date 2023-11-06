@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon Nov  6 12:00:20 2023
+[*]
+[dumpfile] "/home/uri/p/tt05-mask-rev-for-tim/test/tb.vcd"
+[dumpfile_mtime] "Mon Nov  6 11:59:09 2023"
+[dumpfile_size] 1199
+[savefile] "/home/uri/p/tt05-mask-rev-for-tim/test/tb.gtkw"
+[timestart] 0
+[size] 1908 999
+[pos] -1 -1
+*0.000000 11910000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[sst_width] 214
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 292
+@28
+tb.clk
+tb.ena
+tb.rst_n
+@22
+tb.mask_rev[31:0]
+tb.ui_in[7:0]
+tb.uo_out[7:0]
+tb.uio_out[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
